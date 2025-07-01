@@ -4,7 +4,7 @@ A sleek and responsive clone of the Splyt homepage, built using **React**, **Tai
 
 ## 🚀 Live Demo
 
-👉 [View Live Site](https://your-live-demo-link.com)
+👉 [View Live Site](https://spylt-gsap-react.vercel.app/)
 
 
 
