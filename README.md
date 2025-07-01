@@ -6,7 +6,7 @@ A sleek and responsive clone of the Splyt homepage, built using **React**, **Tai
 
 👉 [View Live Site](https://your-live-demo-link.com)
 
-![Splyt Clone Preview](./public/screenshot.png)
+
 
 ## 🛠️ Tech Stack
 
@@ -32,7 +32,7 @@ A sleek and responsive clone of the Splyt homepage, built using **React**, **Tai
 
 1. Clone the repository  
 ```bash
-git clone https://github.com/coder-m4megha/spylt-clone.git
+git clone https://github.com/coder-m4megha/spylt_gsap_react.git
 
 cd spylt-clone
  npm install
